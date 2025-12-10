@@ -1,7 +1,3 @@
-set tags=/home/parkprogrammer/xv6-public/tags
-set cst
-cs add /home/parkprogrammer/xv6-public/cscope.out /home/parkprogrammer/xv6-public/
-
 set autoindent
 set cindent
 set nu " Setting off the line number for dragging.. OTL Or maybe just memorize the keys!
