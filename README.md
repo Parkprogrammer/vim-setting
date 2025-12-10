@@ -1,3 +1,3 @@
 # My vim setting
 
-## Mostly for windows key-map compatibility
+Mostly for windows key-map compatibility
