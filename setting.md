@@ -1,6 +1,6 @@
-## CMD Setting
+**CMD Setting**
 
-### CMD Text
+**- CMD Text**
  - One Half Dark
  - Courier New
  - Font Size  : 12
@@ -8,14 +8,14 @@
  - Cell width : 0.6
  - Font weight: Medium
 
-### CMD Cursor
+**- CMD Cursor**
  - Cursor shape: Underscore
  - Cursor color: White
 
 
-## Ubuntu Setting
+**Ubuntu Setting**
 
-### Ubuntu Text
+**- Ubuntu Text**
  - One Half Dark
  - Courier New
  - Font Size  : 13
@@ -23,10 +23,10 @@
  - Cell width : 0.6
  - Font weight: Medium
 
-### Ubuntu Cursor
+**- Ubuntu Cursor**
  - Cursor shape: Vintage
  - Cursor height: 25
  - Cursor color: White
 
-### Ubuntu Test Formatting
+**- Ubuntu Text Formatting**
  - Bold
